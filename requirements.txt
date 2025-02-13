@@ -1,0 +1,10 @@
+pypdf
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence-transformers
+llama-index
+llama-index-llms-huggingface
+langchain-community
